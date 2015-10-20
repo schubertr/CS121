@@ -1,7 +1,7 @@
 # CS121
 Projects &amp; Code from CS 121
 
-Project 1: Budjet
+Project 1: Budget
 
 Project 2: Astrology
 
